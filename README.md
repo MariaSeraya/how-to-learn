@@ -15,7 +15,7 @@
 **Inprovement plans:**
 * implement adaptability.
 
-GitHub link: [How to learn](https://github.com/MariaSeraya/how-to-learn.git)
+GitHub link: [How to learn](https://github.com/MariaSeraya/how-to-learn.git),
 GitHub Pages: [How to learn](https://mariaseraya.github.io/how-to-learn/)
 
 ------
@@ -37,8 +37,8 @@ GitHub Pages: [How to learn](https://mariaseraya.github.io/how-to-learn/)
 **Планы на доработку:**
 * реализовать адаптивность.
 
-Ссылка на GitHub: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git)
-Ссылка на GitHub Pages: [Научиться учиться](https://mariaseraya.github.io/how-to-learn/)
+Ссылка на GitHub: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git),
+cсылка на GitHub Pages: [Научиться учиться](https://mariaseraya.github.io/how-to-learn/)
 
 
 
