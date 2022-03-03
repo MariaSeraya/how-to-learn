@@ -1,22 +1,44 @@
+# How to learn
+### The first project completed on the course of web-developers from Yandex.Practicum
+
+**About the project:**
+* educational project;
+* landing page that talks about effective teaching methods, including the Oakley's techniques, Feynman's method and other.
+
+**Used in project:**
+* BEM methodology;
+* positioning method;
+* flexbox;
+* iframe and API YouTube;
+* simple animation and transformation.
+
+**Inprovement plans:**
+* implement adaptability.
+
+GitHub link: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git)
+GitHub Pages: [Научиться учиться](https://mariaseraya.github.io/how-to-learn/)
+
+------
+
 # Научиться учиться
-### Первый самостоятельный проект, выполненный на Яндекс.Практикум, по направлению web-разработка
+### Первый проект, выполненный на курсе веб-разаботчиков от Яндекс.Практикум
 
 **О проекте:**
-* одностраничный сайт, в работе над которым закрепляются знания, полученные в тренажере Яндекс.Практикум;
-* сайт написан согласно методологии БЭМ.
+* учебный проект;
+* лэндинг, говорящий об эффективных образовательных методах, в том числе техник Оакли, методе Фейнмана и других.
 
 **В работе использовались:**
-* flexbox-вёрстка;
+* методология БЕМ;
 * позиционирование элементов;
+* флексбоксы;
 * iframe и API YouTube;
 * простая анимация и трансформация.
 
 **Планы на доработку:**
-* написать англоязычную версию сайта;
-* дополнить README на английском.
+* реализовать адаптивность.
 
-Ссылка на проект: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git)
-
+Ссылка на GitHub: [Научиться учиться](https://github.com/MariaSeraya/how-to-learn.git)
+Ссылка на GitHub Pages: [Научиться учиться](https://mariaseraya.github.io/how-to-learn/)
 
 
 
