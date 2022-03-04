@@ -1,8 +1,8 @@
 # How to learn
-### The first project completed on the course of web-developers from Yandex.Practicum
+### The first project completed on the course of web-developers from Practicum by Yandex
 
 **About the project:**
-* educational project;
+* educational project (made by brief);
 * landing page that talks about effective teaching methods, including the Oakley's techniques, Feynman's method and other.
 
 **Used in project:**
@@ -13,7 +13,7 @@
 * simple animation and transformation.
 
 **Inprovement plans:**
-* implement adaptability.
+* implement an adaptability.
 
 GitHub link: [How to learn](https://github.com/MariaSeraya/how-to-learn.git),
 GitHub Pages: [How to learn](https://mariaseraya.github.io/how-to-learn/)
@@ -24,7 +24,7 @@ GitHub Pages: [How to learn](https://mariaseraya.github.io/how-to-learn/)
 ### Первый проект, выполненный на курсе веб-разаботчиков от Яндекс.Практикум
 
 **О проекте:**
-* учебный проект;
+* учебный проект (сделан по брифу);
 * лэндинг, говорящий об эффективных образовательных методах, в том числе техник Оакли, методе Фейнмана и других.
 
 **В работе использовались:**
