@@ -2,8 +2,8 @@
 ### The first project completed on the course of web-developers from Practicum by Yandex
 
 **About the project:**
-* educational project (made by brief);
-* landing page that talks about effective teaching methods, including the Oakley's techniques, Feynman's method and others.
+* an educational project (made by brief);
+* a landing page that talks about effective teaching methods, including the Oakley's techniques, Feynman's method and others.
 
 **Used in project:**
 * BEM methodology;
